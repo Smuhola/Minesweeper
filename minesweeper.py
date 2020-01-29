@@ -1,7 +1,6 @@
 """
-Samu Ahola - 2512402, samu.ahola@gmail.com
-Janne Korhonen - 2516848, janne.olavi3@gmail.com
-
+Samu Ahola
+Janne Korhonen
 """
 
 import random
