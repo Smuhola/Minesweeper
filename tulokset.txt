@@ -1,0 +1,2 @@
+Pelikentta: 5x5, Miinoja: 10, Pelin kesto: 1.6s,          Vuorot: 10, Lopputulos: Havio, Paivamaara: 2020-01-21 23:02:20 
+Pelikentta: 30x30, Miinoja: 50, Pelin kesto: 0.0s,          Vuorot: 1, Lopputulos: Havio, Paivamaara: 2020-01-21 23:05:00 
