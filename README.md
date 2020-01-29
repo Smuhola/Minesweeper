@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper game
+Minesweeper game made in collaboration with Janne Korhonen for Elementary Programming course.
