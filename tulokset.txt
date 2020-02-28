@@ -1,2 +1,13 @@
 Pelikentta: 5x5, Miinoja: 10, Pelin kesto: 1.6s,          Vuorot: 10, Lopputulos: Havio, Paivamaara: 2020-01-21 23:02:20 
 Pelikentta: 30x30, Miinoja: 50, Pelin kesto: 0.0s,          Vuorot: 1, Lopputulos: Havio, Paivamaara: 2020-01-21 23:05:00 
+Pelikentta: 30x30, Miinoja: 50, Pelin kesto: 4.1s,          Vuorot: 4, Lopputulos: Havio, Paivamaara: 2020-02-28 17:50:00 
+Pelikentta: 9x9, Miinoja: 10, Pelin kesto: 12.9s,          Vuorot: 10, Lopputulos: Havio, Paivamaara: 2020-02-28 17:51:11 
+Pelikentta: 16x30, Miinoja: 99, Pelin kesto: 1.4s,          Vuorot: 2, Lopputulos: Havio, Paivamaara: 2020-02-28 17:53:49 
+Pelikentta: 16x30, Miinoja: 99, Pelin kesto: 6.3s,          Vuorot: 6, Lopputulos: Havio, Paivamaara: 2020-02-28 17:55:05 
+Pelikentta: 9x9, Miinoja: 10, Pelin kesto: 3.8s,          Vuorot: 3, Lopputulos: Havio, Paivamaara: 2020-02-28 17:56:33 
+Pelikentta: 16x30, Miinoja: 99, Pelin kesto: 0.9s,          Vuorot: 2, Lopputulos: Havio, Paivamaara: 2020-02-28 17:56:46 
+Pelikentta: 16x30, Miinoja: 99, Pelin kesto: 2.2s,          Vuorot: 3, Lopputulos: Havio, Paivamaara: 2020-02-28 17:57:02 
+Pelikentta: 9x9, Miinoja: 5, Pelin kesto: 0.0s,          Vuorot: 1, Lopputulos: Havio, Paivamaara: 2020-02-28 17:59:15 
+Pelikentta: 15x15, Miinoja: 5, Pelin kesto: 2.1s,          Vuorot: 2, Lopputulos: Voitto, Paivamaara: 2020-02-28 17:59:39 
+Pelikentta: 20x20, Miinoja: 10, Pelin kesto: 4.8s,          Vuorot: 2, Lopputulos: Havio, Paivamaara: 2020-02-28 17:59:58 
+Pelikentta: 9x9, Miinoja: 3, Pelin kesto: 2.8s,          Vuorot: 3, Lopputulos: Voitto, Paivamaara: 2020-02-28 18:00:20 
